@@ -117,7 +117,7 @@ Para começar com o projeto Stack de Monitoramento, siga estes passos para clona
 2. **Clone o Repositório**: Execute o seguinte comando para clonar o repositório Git:
 
    ```shell
-   git clone https://github.com/thiagousa/youtube.git
+   git clone https://github.com/thiagousa/youtube-pt.git
    ```
 
    Este comando criará um novo diretório chamado `youtube` em sua localização atual e clonará o projeto para dentro dele.
