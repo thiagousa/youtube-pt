@@ -22,7 +22,7 @@ Este projeto oferece uma configuração pronta para uso de uma pilha de monitora
 
 ## Primeiros Passos 🚀
 
-Siga as instruções detalhadas de configuração na [documentação do projeto](https://github.com/thiagousa/youtube-pt/blob/main/monitoring/docker/README.md) para colocar sua pilha de monitoramento para funcionar rapidamente. Com apenas alguns passos simples, você terá acesso a um ambiente de monitoramento totalmente funcional.
+Siga as instruções detalhadas de configuração na [documentação do projeto](https://github.com/thiagousa/youtube-pt/tree/main/monitoring/docker) para colocar sua pilha de monitoramento para funcionar rapidamente. Com apenas alguns passos simples, você terá acesso a um ambiente de monitoramento totalmente funcional.
 
 ## Funcionalidades e Benefícios 🌟
 
