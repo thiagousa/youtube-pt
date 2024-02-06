@@ -22,7 +22,7 @@ Este projeto oferece uma configuração pronta para uso de uma pilha de monitora
 
 ## Primeiros Passos 🚀
 
-Siga as instruções detalhadas de configuração na [documentação do projeto](https://github.com/thiagousa/youtube/tree/main/monitoring/docker) para colocar sua pilha de monitoramento para funcionar rapidamente. Com apenas alguns passos simples, você terá acesso a um ambiente de monitoramento totalmente funcional.
+Siga as instruções detalhadas de configuração na [documentação do projeto](https://github.com/thiagousa/youtube-pt/edit/main/monitoring/docker/README.md) para colocar sua pilha de monitoramento para funcionar rapidamente. Com apenas alguns passos simples, você terá acesso a um ambiente de monitoramento totalmente funcional.
 
 ## Funcionalidades e Benefícios 🌟
 
@@ -60,9 +60,7 @@ Para configurar seu ambiente efetivamente para uso do Docker, juntamente com o G
 
 1. **Docker Desktop**: Esta aplicação é essencial para executar aplicações em contêineres. Certifique-se de que o Docker Desktop esteja instalado e em execução no seu sistema. Você pode baixá-lo do [site oficial do Docker](https://www.docker.com/products/docker-desktop).
 
-2. **
-
-Git**: Um sistema de controle de versão crucial para o gerenciamento de código, especialmente ao colaborar em equipe. Ajuda a rastrear alterações no código-fonte durante o desenvolvimento de software. Baixe o Git do [site oficial do Git](https://git-scm.com/downloads).
+2. **Git**: Um sistema de controle de versão crucial para o gerenciamento de código, especialmente ao colaborar em equipe. Ajuda a rastrear alterações no código-fonte durante o desenvolvimento de software. Baixe o Git do [site oficial do Git](https://git-scm.com/downloads).
 
 3. **Editor de Código (como o Visual Studio Code)**: Um editor de código é necessário para escrever e editar seu código. O Visual Studio Code (VS Code) é uma escolha popular devido à sua ampla gama de recursos, incluindo suporte para Docker e Git. Você pode baixar o VS Code do [site oficial do Visual Studio Code](https://code.visualstudio.com/). No entanto, você pode escolher qualquer outro editor de código com o qual se sinta confortável.
 
