@@ -1,12 +1,12 @@
-# Pilha de Monitoramento com Prometheus, AlertManager, Grafana, Node Exporter, MailHog e NGINX 🚀
+# Stack de Monitoramento com Prometheus, AlertManager, Grafana, Node Exporter, MailHog e NGINX 🚀
 
 ![Pré-visualização do Projeto](https://github.com/thiagousa/youtube/blob/main/monitoring/docker/screenshot/docker-design.png)
 
-Bem-vindo ao projeto Pilha de Monitoramento, uma solução robusta e abrangente para monitoramento e gerenciamento da sua infraestrutura. Este projeto combina poderosas ferramentas de código aberto para ajudá-lo a continuar aprendendo sobre a infraestrutura de monitoramento.
+Bem-vindo ao projeto Stack de Monitoramento, uma solução robusta e abrangente para monitoramento e gerenciamento da sua infraestrutura. Este projeto combina poderosas ferramentas de código aberto para ajudá-lo a continuar aprendendo sobre a infraestrutura de monitoramento.
 
 ## O que está incluído? 🧐
 
-Este projeto oferece uma configuração pronta para uso de uma pilha de monitoramento que inclui:
+Este projeto oferece uma configuração pronta para uso de uma Stack de monitoramento que inclui:
 
 - **Prometheus**: Uma das principais ferramentas de código aberto para monitoramento e alerta, projetada para confiabilidade e escalabilidade.
 
@@ -22,7 +22,7 @@ Este projeto oferece uma configuração pronta para uso de uma pilha de monitora
 
 ## Primeiros Passos 🚀
 
-Siga as instruções detalhadas de configuração na [documentação do projeto](https://github.com/thiagousa/youtube-pt/tree/main/monitoring/docker) para colocar sua pilha de monitoramento para funcionar rapidamente. Com apenas alguns passos simples, você terá acesso a um ambiente de monitoramento totalmente funcional.
+Siga as instruções detalhadas de configuração na [documentação do projeto](https://github.com/thiagousa/youtube-pt/tree/main/monitoring/docker) para colocar sua Stack de monitoramento para funcionar rapidamente. Com apenas alguns passos simples, você terá acesso a um ambiente de monitoramento totalmente funcional.
 
 ## Funcionalidades e Benefícios 🌟
 
@@ -46,7 +46,7 @@ Este projeto está licenciado sob a [Licença MIT](../../LICENSE), então você 
 
 ## Comece Hoje Mesmo! 🚀
 
-Pronto para assumir o controle do monitoramento da sua infraestrutura? Comece com este projeto de Pilha de Monitoramento e mantenha seus sistemas funcionando sem problemas!
+Pronto para assumir o controle do monitoramento da sua infraestrutura? Comece com este projeto de Stack de Monitoramento e mantenha seus sistemas funcionando sem problemas!
 
 [![Monitoramento](/monitoring/docker/screenshot/monitoramento.png)](https://www.youtube.com/watch?v=eVi-ec7n_7cD)
 
@@ -108,7 +108,7 @@ Adicione as seguintes entradas ao seu arquivo `/etc/hosts`:
 
 ## Clonando o Projeto
 
-Para começar com o projeto Pilha de Monitoramento, siga estes passos para clonar o repositório Git para sua máquina local:
+Para começar com o projeto Stack de Monitoramento, siga estes passos para clonar o repositório Git para sua máquina local:
 
 1. **Abra um Terminal ou Prompt de Comando**: Inicie o aplicativo de terminal no seu computador.
 
@@ -126,9 +126,9 @@ Para começar com o projeto Pilha de Monitoramento, siga estes passos para clona
    cd youtube/monitoring/docker
    ```
 
-Agora você clonou com sucesso o projeto Pilha de Monitoramento para sua máquina local e pode prosseguir com a configuração e exec
+Agora você clonou com sucesso o projeto Stack de Monitoramento para sua máquina local e pode prosseguir com a configuração e exec
 
-ução da pilha de monitoramento conforme descrito no restante deste readme.
+ução da Stack de monitoramento conforme descrito no restante deste readme.
 
 ### 🐳 Execute o Docker Compose
 
@@ -140,7 +140,7 @@ docker compose up -d
 
 ### 🔗 Acesse Todos os Serviços
 
-Visite [Todos os Serviços](http://services.acme.net) para acessar os vários componentes da pilha de monitoramento.
+Visite [Todos os Serviços](http://services.acme.net) para acessar os vários componentes da Stack de monitoramento.
 
 ![Captura de Tela](/monitoring/docker/screenshot/services.png)
 
