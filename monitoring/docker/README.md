@@ -1,3 +1,5 @@
+[![Monitoramento](/monitoring/docker/screenshot/monitoramento.png)](https://www.youtube.com/watch?v=eVi-ec7n_7cD)
+
 # Stack de Monitoramento com Prometheus, AlertManager, Grafana, Node Exporter, MailHog e NGINX 🚀
 
 ![Pré-visualização do Projeto](https://github.com/thiagousa/youtube/blob/main/monitoring/docker/screenshot/docker-design.png)
