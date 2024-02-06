@@ -123,7 +123,7 @@ Para começar com o projeto Stack de Monitoramento, siga estes passos para clona
 3. **Mude de Diretório**: Entre no diretório do projeto executando:
 
    ```shell
-   cd youtube/monitoring/docker
+   cd youtube-pt/monitoring/docker
    ```
 
 Agora você clonou com sucesso o projeto Stack de Monitoramento para sua máquina local e pode prosseguir com a configuração e exec
