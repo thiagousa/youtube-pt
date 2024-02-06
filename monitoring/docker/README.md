@@ -48,7 +48,7 @@ Este projeto está licenciado sob a [Licença MIT](../../LICENSE), então você 
 
 Pronto para assumir o controle do monitoramento da sua infraestrutura? Comece com este projeto de Pilha de Monitoramento e mantenha seus sistemas funcionando sem problemas!
 
-[![Monitoramento](https://github.com/thiagousa/youtube/blob/main/monitoring/docker/screenshot/monitoramento.png)](https://www.youtube.com/watch?v=eVi-ec7n_7cD)
+[![Monitoramento](/monitoring/docker/screenshot/monitoramento.png)](https://www.youtube.com/watch?v=eVi-ec7n_7cD)
 
 [Assista ao Vídeo](https://www.youtube.com/watch?v=eVi-ec7n_7cD)
 
